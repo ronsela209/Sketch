@@ -1,0 +1,13 @@
+.row-div{
+display: flex;
+
+}
+.one-div{
+    border: 1px solid black; /* Add border around the div */
+    box-sizing: border-box; 
+    transition: all 100ms ease; /* Applies transition to all properties */
+}
+.one-div:hover{
+
+    background-color: aquamarine;
+}
